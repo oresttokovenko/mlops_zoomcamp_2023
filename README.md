@@ -49,8 +49,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * Monitoring web services with Prometheus, Evidently, and Grafana
 * Monitoring batch jobs with Prefect, MongoDB, and Evidently
 
-[More details](05-monitoring)
-
 
 ### [Module 6: Best Practices](06-best-practices)
 
