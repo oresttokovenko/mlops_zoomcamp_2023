@@ -14,8 +14,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * Environment preparation
 * Homework
 
-[More details](01-intro)
-
 ### [Module 2: Experiment tracking and model management](02-experiment-tracking)
 
 * Experiment tracking intro
@@ -26,8 +24,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * MLflow in practice
 * Homework
 
-[More details](02-experiment-tracking)
-
 
 ### [Module 3: Orchestration and ML Pipelines](03-orchestration)
 
@@ -37,8 +33,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * Deployment of Prefect flow
 * Homework
 
-[More details](03-orchestration)
-
 
 ### [Module 4: Model Deployment](04-deployment)
 
@@ -47,8 +41,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * Streaming: consuming events with AWS Kinesis and Lambda
 * Batch: scoring data offline
 * Homework
-
-[More details](04-deployment)
 
 
 ### [Module 5: Model Monitoring](05-monitoring)
@@ -68,9 +60,6 @@ Learning practical aspects of productionizing ML services — from training and 
 * CI/CD (Github Actions)
 * Infrastructure as code (Terraform)
 * Homework
-
-[More details](06-best-practices)
-
 
 ### [Project](07-project/)
 
