@@ -1,4 +1,4 @@
-# mlops_zoomcamp_2023
+# MLOps Zoomcamp 2023 by DataTalks.Club
 
 Learning practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring.
 
